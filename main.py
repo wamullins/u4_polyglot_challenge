@@ -20,8 +20,9 @@
 # Prompt:
 # - Write a function called remove_ends that accepts a single string argument, then returns the a string with the first and last characters removed.
 # - If the length of the string argument is less than 3, return an empty string.
+
 # Examples:
-# remove_ends('SEI Rocks!'); //=> "EI Rocks"
+# remove_ends('Led Zeppelin Rules'); //=> "ed Zeppelin Rule"
 # remove_ends('a'); //=> "" (empty string)
 
 
@@ -45,3 +46,20 @@
 
 
 # Solution Goes Here - >
+
+
+
+
+# Challenge: 04-is_prime
+
+# Prompt:
+# - Write a function named isPrime that returns true when the integer argument passed to it is a prime number and false when the argument passed to it is not prime.
+# - A prime number is a whole number (integer) greater than 1 that is evenly divisible by only itself.
+# Examples:
+# is_prime(2) //=> true
+# is_prime(3) //=> true 
+# is_prime(4) //=> false
+# is_prime(29) //=> true
+# is_prime(200) //=> false
+
+# Solution goes here ->
