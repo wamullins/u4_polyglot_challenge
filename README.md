@@ -1,7 +1,7 @@
 # SEIR 621 Polyglot Challenge
 
 
-![JonStewart](./JS_HB.jpg)
+![JonStewart](./JS1.jpg)
 
 
 As you continue on your journey studying and working with code, it is critical for you to build up on your ability to learn new things. Remember, the languages and frameworks that we use are constantly changing - expanding your skills and adapting to change is going to be critical for success in this field.
