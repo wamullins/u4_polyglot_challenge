@@ -11,3 +11,5 @@ For this activity, lets take a few code challenges that we are familiar with in 
 You should already know the steps required  and the different parts involved for some of these challenges(Looping, conditionals, mathematic operators, string concatination...). What is most important is the ability to translate your existing skills into a new language. 
 
 Because if you can translate your basic JS to Python, you will be able to use these same skills to learn Ruby, Java, Rust, React Native, or any of the other many, many languages and frameworks out there that you will see in when you are working in the field.
+
+For these challenges, you will want to test your code by calling your functions and running  *python3 main.py* in your terminal
