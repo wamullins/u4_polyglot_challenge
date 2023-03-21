@@ -1,4 +1,4 @@
-# SEIR 1003 Polyglot Challenge
+# SEIR 123 Polyglot Challenge
 
 
 ![JonStewart](./JS1.jpg)
