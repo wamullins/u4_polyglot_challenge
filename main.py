@@ -96,7 +96,7 @@
 # Challenge 6: fizz_buzz
 
 # Prompt -> Write a program that prints the numbers from 1 to 50. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”
-# If your argument is not a number, return "is not A umber"
+# If your argument is not a number, return "is not a number"
 
 # Examples:
 # fizz_buzz(10) //=> 10 "Buzz"
